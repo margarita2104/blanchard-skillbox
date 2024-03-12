@@ -1,7 +1,5 @@
 # Blanchard Website
 
-![Blanchard Website](path/to/your/project/image.png)
-
 ## Overview
 
 Blanchard Website is a course project developed for the Frontend Development course by Skillbox. This project showcases the use of HTML, CSS, and JavaScript to create a responsive and dynamic website. The project integrates several external libraries, including Inputmask, Just-Validate, Choices, Simplebar, and Swiper, to enhance user interactions and improve overall functionality.
