@@ -1,7 +1,3 @@
-Certainly! Here's a basic template for your README file. Please replace the placeholder information with your project-specific details:
-
----
-
 # Blanchard Website
 
 ![Blanchard Website](path/to/your/project/image.png)
